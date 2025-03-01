@@ -2,7 +2,9 @@
 <a href="https://www.linkedin.com/in/swaroopksn130399/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=black" /></a>
 <a href="https://medium.com/@sai.kantamuneni"><img src="https://img.shields.io/badge/-Medium-00ab6c?style=for-the-badge&logo=medium&logoColor=white" /></a>
 
-I am a recent graduate with 1 year experience in software development, currently learning and developing my skills in cybersecurity.
+A professional with a Master's degree in Systems and Technology, complemented by a year of hands-on experience in software development. Currently expanding expertise in cybersecurity, demonstrating a commitment to staying at the forefront of digital security trends. Holds industry-recognized certifications, including CompTIA Security+, ISC2 CC & SSCP underlining a solid foundation in IT security principles.
+
+Currently, a member and part of Events and Outreach Committee of the ISC2 Toronto Chapter.
 
 ## Projects
 
