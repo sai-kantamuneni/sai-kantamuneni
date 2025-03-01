@@ -8,15 +8,15 @@ Currently, a member and part of Events and Outreach Committee of the ISC2 Toront
 
 ## Projects
 
-| Project                                       | Github                     |
-|-----------------------------------------------|----------------------------|
-| TryHackMe Walkthroughs                        | <a href="https://google.com">Detection Lab</a>|
-| Kali Linux Tools                              | <a href="https://google.com">Detection Lab</a>|
-| Python Projects                               | SOC Automation Lab|
-| CTFLearn Walkthroughs                         | SOC Automation Lab|
-| Forage Simulations                            | SOC Automation Lab|
-| Hacktoria Walkthroughs                        | SOC Automation Lab|
-| ISC2 CC Guide                                 | SOC Automation Lab|
+| Project                                       |
+|-----------------------------------------------|
+| TryHackMe Walkthroughs                        |
+| Kali Linux Tools                              |
+| Python Projects                               |
+| <a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs">CTFLearn Walkthroughs</a>|
+| Forage Simulations                            |
+| Hacktoria Walkthroughs                        | 
+| ISC2 CC Guide                                 | 
 
 ## Tools
 
