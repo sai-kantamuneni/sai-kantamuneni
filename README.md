@@ -14,7 +14,7 @@ Currently, a member and part of Events and Outreach Committee of the ISC2 Toront
 | <a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main">Kali Linux Tools</a>|
 | <a href= "https://github.com/sai-kantamuneni/Python-Projects/tree/main">Python Projects</a>
 | <a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs">CTFLearn Walkthroughs</a>|
-| Forage Simulations                            |
+| <a href="https://github.com/sai-kantamuneni/Forage-Simulations/tree/main">Forage Simulations</a>|
 | Hacktoria Walkthroughs                        | 
 | ISC2 CC Guide                                 | 
 
