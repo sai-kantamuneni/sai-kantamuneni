@@ -16,7 +16,7 @@ Currently, a member and part of Events and Outreach Committee of the ISC2 Toront
 | <a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs">CTFLearn Walkthroughs</a>|
 | <a href="https://github.com/sai-kantamuneni/Forage-Simulations/tree/main">Forage Simulations</a>|
 | Hacktoria Walkthroughs                        | 
-| ISC2 CC Guide                                 | 
+| <a href="https://github.com/sai-kantamuneni/ISC2-CC-Guide">ISC2 CC Guide</a>| 
 
 ## Tools
 
