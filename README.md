@@ -10,7 +10,7 @@ Currently, a member and part of Events and Outreach Committee of the ISC2 Toront
 
 | Project                                       |
 |-----------------------------------------------|
-| TryHackMe Walkthroughs                        |
+| <a href="https://github.com/sai-kantamuneni/TryHackMe-Walkthroughs">TryHackMe Walkthroughs</a>|
 | <a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main">Kali Linux Tools</a>|
 | <a href= "https://github.com/sai-kantamuneni/Python-Projects/tree/main">Python Projects</a>
 | <a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs">CTFLearn Walkthroughs</a>|
