@@ -11,7 +11,7 @@ Currently, a member and part of Events and Outreach Committee of the ISC2 Toront
 | Project                                       |
 |-----------------------------------------------|
 | TryHackMe Walkthroughs                        |
-| Kali Linux Tools                              |
+| <a href="https://github.com/sai-kantamuneni/Kali-Linux-Tools/tree/main">Kali Linux Tools</a>|
 | Python Projects                               |
 | <a href="https://github.com/sai-kantamuneni/CTFLearn-Walkthroughs">CTFLearn Walkthroughs</a>|
 | Forage Simulations                            |
